@@ -59,6 +59,7 @@ instance/
 # Editors
 .vscode
 .idea
+*.sw?
 
 # linting
 .mypy_cache/
